@@ -1,0 +1,19 @@
+# Core
+torch
+transformers>=4.48
+accelerate
+sentencepiece
+tiktoken
+protobuf
+# Data and metrics
+scikit-learn
+pandas
+numpy
+nltk
+# Plots and progress bars
+matplotlib
+seaborn
+tqdm
+# NOTE: pin exact versions before submission (see "Pinning versions" in README.md), e.g.
+# torch==X.Y.Z
+# transformers==X.Y.Z

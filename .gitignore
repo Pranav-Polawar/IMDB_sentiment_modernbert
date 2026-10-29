@@ -1,0 +1,9 @@
+# model files are too large for GitHub (the dataset in data/ is allowed)
+*.pth
+*.pt
+*.npy
+*.safetensors
+# notebook / system clutter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
