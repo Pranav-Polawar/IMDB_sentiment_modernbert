@@ -2,8 +2,8 @@
 
 B.Tech Project, Department of Computer Science and Engineering, IIIT Bhopal (2026-27)
 
-**Team:** [Student 1 name] ([Scholar no.]) and [Student 2 name] ([Scholar no.])
-**Supervisor:** [Supervisor name, designation]
+**Team:** Polawar Pranav Shirish (24U020088) and Satyam Raj (24U020098)
+**Supervisor:** Dr.Amit Kumar Nandanwar,Assistant Professor,Department of Computer Science and Engineering,IIIT Bhopal.
 
 ---
 
@@ -75,9 +75,7 @@ paper's model, use notebook `03_...` and read its **Section 4 (settings)** first
 
 | Model | Test accuracy | F1-score | Training time |
 |---|---|---|---|
-| Paper: RoBERTa-BiLSTM (as reported) | 92.36% | 92.35% | 170.98 min (5 epochs, RTX 3090 GPU) |
-| ModernBERT + Attention Pooling | [fill in]% | [fill in]% | [fill in] min (3 epochs, T4 GPU) |
-| DeBERTa-v3 + BiLSTM + Attention Pooling | [fill in]% | [fill in]% | [fill in] min (3 epochs, T4 GPU) |
+| ModernBERT + Attention Pooling | 95.93% | 95.93% | 162 min (3 epochs, T4 GPU) |
 
 Your numbers can differ slightly from ours, because GPU calculations are not exactly repeatable.
 All results come from one training run on one data split, so the comparison with the paper is only
